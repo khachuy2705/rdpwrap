@@ -34,7 +34,7 @@ set rdpwrap_ini_update_github_1="https://raw.githubusercontent.com/asmtron/rdpwr
 set rdpwrap_ini_update_github_2="https://raw.githubusercontent.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini"
 set rdpwrap_ini_update_github_3="https://raw.githubusercontent.com/affinityv/INI-RDPWRAP/master/rdpwrap.ini"
 set rdpwrap_ini_update_github_4="https://raw.githubusercontent.com/khachuy2705/rdpwrap/refs/heads/master/res/rdpwrap.ini"
-::set rdpwrap_ini_update_github_5="https://raw.githubusercontent.com/....Extra.5...."
+set rdpwrap_ini_update_github_5="https://raw.githubusercontent.com/rchavezh762/rdpwrap.ini/refs/heads/patch-3/rdpwrap.ini"
 ::
 set autoupdate_version=1.4
 set autoupdate_url="https://raw.githubusercontent.com/asmtron/rdpwrap/master/bin/autoupdate.bat"
